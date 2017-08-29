@@ -2,7 +2,7 @@
 
 
 
-# Overly-Delusional-Transcendence
+# Overly Delusional Transcendence [ODT]
 
 An exciting and chaotic way to play commander with your friends
 
