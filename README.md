@@ -70,4 +70,10 @@ Player A thinks this is not enough so he also adds a rule saying that Player B a
 
 Even though Player A and Player B will have access to all the information and rules above the other players **might not**.
 
-To keep things more fun and interesting
+To keep things more fun and interesting **no other player** other than Player A and Player B may know the secret winning condition that Player A created for Player B and **no other player** other than Player B may know that it was Player A who designed the rule set for Player B.
+
+While game changing rules such as skipping a phase and other rules that are relevant for general gameplay must be known to every player, deck building rules **might** be hidden.
+
+When creating rules for Player B, if Player A designs rules (such as deck building rules) that don't affect general gameplay, Player A **may specify** that the rule should be **hidden** from other players.
+
+Any other rule that **is not specified as hidden** is **made public**.
