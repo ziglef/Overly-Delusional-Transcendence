@@ -1,4 +1,9 @@
+![odt.jpg_256]()
+
+
+
 # Overly-Delusional-Transcendence
+
 An exciting and chaotic way to play commander with your friends
 
 
