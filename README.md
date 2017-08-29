@@ -36,7 +36,7 @@ Although the format is meant to be an interesting deck building experience for e
 
 
 
-**Rule 3:** Player A searches for ways to be sure that this winning condition is **attainable**. After searching and finding some different ways to win through battle of wits he decides that the already known *Spawnsire of Ulamog* is not fun enough so he **bans** the card for Player B. 
+**Rule 3:** Player A searches for ways to be sure that this winning condition is **attainable**. After searching and finding some different ways to win through battle of wits he decides that the already known *Spawnsire of Ulamog* win is not fun enough so he **bans** the card for Player B. 
 
 Player B is therefore **forbidden** to use the card in deck building.
 
@@ -63,3 +63,11 @@ By default if someone is given access to a sideboard it means that they can use 
 In each of Player B's upkeeps that player selects one card from his hand and discards it. Then that player adds the bottom card of his deck to his hand.
 
 Player A thinks this is not enough so he also adds a rule saying that Player B always skips his declare attackers step on all turns.
+
+
+
+## Information Availability
+
+Even though Player A and Player B will have access to all the information and rules above the other players **might not**.
+
+To keep things more fun and interesting
